@@ -19,7 +19,7 @@
 #import <EZOpenSDKFramework/EZDeviceInfo.h>
 #import <EZOpenSDKFramework/EZDevicePtzAngleInfo.h>
 #import <EZOpenSDKFramework/EZDeviceRecordDownloadTask.h>
-#import <EZOpenSDKFramework/EZDeviceRecordFile.h>
+#import <EZOpenSDKFramework/EZRecordCoverFetcherManager.h>
 #import <EZOpenSDKFramework/EZDeviceUpgradeStatus.h>
 #import <EZOpenSDKFramework/EZDeviceVersion.h>
 #import <EZOpenSDKFramework/EZHCNetDeviceInfo.h>
